@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042603360754",
+    "project_id": "spareboxx-952b1",
+    "storage_bucket": "spareboxx-952b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042603360754:android:6949a2d2d457d05d34ab6b",
+        "android_client_info": {
+          "package_name": "com.spareboxx.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042603360754-773ellg2er4lqtmlrf40pbfoo7matbvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7alFsLWjEeRS0lvfZRzP1zBpj-9yoKX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042603360754-773ellg2er4lqtmlrf40pbfoo7matbvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

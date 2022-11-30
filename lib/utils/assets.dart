@@ -1,0 +1,12 @@
+const String keyIcon = "assets/svg/Frame.svg";
+const String personIcon = "assets/svg/man.svg";
+const String phoneIcon = "assets/svg/phone.svg";
+const String emailIcon = "assets/svg/Vector.svg";
+const String eyeIcon = "assets/svg/eye on.svg";
+const String profileImage = "assets/profile_image.png";
+const String supportIcon = "assets/svg/support.svg";
+const String settingIcon = "assets/svg/setting.svg";
+const String giftIcon = "assets/svg/gift.svg";
+const String policyIcon = "assets/svg/policy.svg";
+const String logoutIcon = "assets/svg/log out.svg";
+const String backIcon = "assets/svg/Back.svg";
